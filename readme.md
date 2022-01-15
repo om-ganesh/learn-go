@@ -1,9 +1,12 @@
-Checking Version  
->go version  
+# Learning Go Language
+This is a simple repo which records my style of learing go 
 
-Building Go  
->go build main.go  
+# Goals
 
-Cross-Compile on other OS  
->go build -ldflags "-w -s" -o reduced_binary.exe main.go  
+The goal of the project is to cover a few key pillars:
 
+1. Track my progress on learning.
+2. Learn the best practices.
+
+### Copyright
+**[sPaudyal](https://github.com/om-ganesh)**
